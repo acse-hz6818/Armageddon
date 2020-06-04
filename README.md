@@ -1,4 +1,4 @@
-Armageddon
+### Armageddon
 
 Asteroids entering Earth’s atmosphere are subject to extreme drag forces that decelerate, heat and disrupt the space rocks. The fate of an asteroid is a complex function of its initial mass, speed, trajectory angle and internal strength. 
 
